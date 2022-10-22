@@ -1,4 +1,4 @@
-# Build-a-Data-Warehouse-for-analysing-E-Commerce-customer-s-shopping-pattern
+# Design-a-Data-Warehouse-for-analysing-E-Commerce-customer-s-shopping-pattern
 ## Objective
 1. To observe the purchase pattern of the customer according to thier information such as gender, education and annual salary etc.
 2. Discover the potential clients who could bring the max amount of sales and profits
