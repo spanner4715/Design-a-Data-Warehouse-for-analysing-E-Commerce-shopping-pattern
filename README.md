@@ -16,12 +16,12 @@ Check the postgreSQL jar file has imported
 ![image](https://user-images.githubusercontent.com/103509243/193691411-79b4cee5-6c98-40ed-8457-1a6d6b93faa3.png)
 ## 5. Load data into Apache Hive tables
 ![image](https://user-images.githubusercontent.com/103509243/193692296-444ecf91-7ac1-4f9c-8e72-ad72b5ec6abc.png)
-## 6. Data processing in Spark
+## 6. Integrate Hive into Spark (To save in parquet format)
 ![image](https://user-images.githubusercontent.com/103509243/193694543-8cf42571-2e6f-4860-8425-fc9b09678fc1.png)
 ![image](https://user-images.githubusercontent.com/103509243/193695539-b59428fb-1138-45b8-ba98-081b252cb714.png)
 ![image](https://user-images.githubusercontent.com/103509243/193695398-0fef5ad2-392b-4f85-b88d-977b849bd8b7.png)
 ![image](https://user-images.githubusercontent.com/103509243/193695762-386be9c9-ad94-4b03-bc16-4cfff60be18f.png)
-## 7. Load data into Hive
+## 7. Load processed data into Hive
 ![image](https://user-images.githubusercontent.com/103509243/193695991-ee34977a-823b-4989-ad2e-28e78275eca1.png)
 ![image](https://user-images.githubusercontent.com/103509243/193696399-a6ec2d75-8ed6-4282-a254-c1bb869ed76e.png)
 ![image](https://user-images.githubusercontent.com/103509243/193696590-d775bfdf-f5dc-4427-8e68-8bb466727aeb.png)
