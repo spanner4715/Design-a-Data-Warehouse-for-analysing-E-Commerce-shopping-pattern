@@ -2,6 +2,8 @@
 ## Objective
 1. To observe the purchase pattern of the customer according to thier information such as gender, education and annual salary etc.
 2. Discover the potential clients who could bring the max amount of sales and profits
+
+# Approach
 ## 1. Create EC2 instance on Amazon and Docker container
 ![image](https://user-images.githubusercontent.com/103509243/193682249-65be5c24-1313-488d-8b97-0523160244a2.png)
 ## 2. Add Postgresql jar and put hive-site.xml from hive to spark
@@ -10,7 +12,7 @@ Download and add Postgresql jar file
 ![image](https://user-images.githubusercontent.com/103509243/193688812-049c012e-10a7-4f07-aa13-06628857f7d3.png)
 ![image](https://user-images.githubusercontent.com/103509243/193689459-068efba7-64d4-40df-ab0e-eca0b36bf650.png)  
 Check the postgreSQL jar file has imported  
-## 3. Create Tables of Customer’s Information
+## 3. Create Tables of Customer’s Information in MySQL to store data
 ![image](https://user-images.githubusercontent.com/103509243/193690826-c64e6bc6-fb0e-4b07-893e-ff71b7677550.png)
 ## 4. Import data from MySQL to HDFS (Hadoop Distributed File System)
 ![image](https://user-images.githubusercontent.com/103509243/193691411-79b4cee5-6c98-40ed-8457-1a6d6b93faa3.png)
