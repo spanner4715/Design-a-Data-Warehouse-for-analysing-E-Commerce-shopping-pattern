@@ -17,17 +17,17 @@ Check the postgreSQL jar file has imported
 ## 4. Import data from MySQL to HDFS (Hadoop Distributed File System)
 ![image](https://user-images.githubusercontent.com/103509243/193691411-79b4cee5-6c98-40ed-8457-1a6d6b93faa3.png)
 ## 5. Load data into Apache Hive tables
-![image](https://user-images.githubusercontent.com/103509243/193692296-444ecf91-7ac1-4f9c-8e72-ad72b5ec6abc.png)
+![image](https://user-images.githubusercontent.com/103509243/203391086-805846f0-dcac-4d79-bd6d-568dd945ad3a.png)
 ## 6. Integrate Hive into Spark (To save in parquet format)
 ![image](https://user-images.githubusercontent.com/103509243/193694543-8cf42571-2e6f-4860-8425-fc9b09678fc1.png)
 ![image](https://user-images.githubusercontent.com/103509243/193695539-b59428fb-1138-45b8-ba98-081b252cb714.png)
-![image](https://user-images.githubusercontent.com/103509243/193695398-0fef5ad2-392b-4f85-b88d-977b849bd8b7.png)
-![image](https://user-images.githubusercontent.com/103509243/193695762-386be9c9-ad94-4b03-bc16-4cfff60be18f.png)
-## 7. Load processed data into Hive
+![image](https://user-images.githubusercontent.com/103509243/203408724-b0d2eb0b-addb-438d-aba5-1bcc3ed97e9b.png)
+
+## 7. Create Tables in Hive and load processed data into tables
 ![image](https://user-images.githubusercontent.com/103509243/193695991-ee34977a-823b-4989-ad2e-28e78275eca1.png)
 ![image](https://user-images.githubusercontent.com/103509243/193696399-a6ec2d75-8ed6-4282-a254-c1bb869ed76e.png)
 ![image](https://user-images.githubusercontent.com/103509243/193696590-d775bfdf-f5dc-4427-8e68-8bb466727aeb.png)
-## 8. Analyze through Hive
+## 8. Perform analysis through Hive
 ![image](https://user-images.githubusercontent.com/103509243/193696991-bbd8710e-06bf-4428-ac39-6b4e7e96ccae.png)
 ![image](https://user-images.githubusercontent.com/103509243/193697037-7e555721-876c-4484-adbc-786477421fce.png)
 ![image](https://user-images.githubusercontent.com/103509243/193697080-497936ef-590d-4ce0-ba70-0caf29192831.png)
