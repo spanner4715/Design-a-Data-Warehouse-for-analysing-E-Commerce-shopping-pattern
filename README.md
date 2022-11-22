@@ -2,6 +2,9 @@
 ## Objective
 1. To observe the purchase pattern of the customer according to thier information such as gender, education and annual salary etc.
 2. Discover the potential clients who could bring the max amount of sales and profits
+# Architecture
+![image](https://user-images.githubusercontent.com/103509243/203409730-19cdd9a2-706b-444d-b94b-90680848ea41.png)
+
 
 # Approach
 ## 1. Create EC2 instance on Amazon and Docker container
@@ -25,7 +28,7 @@ Check the postgreSQL jar file has imported
 
 ## 7. Create Tables in Hive and load processed data into tables
 ![image](https://user-images.githubusercontent.com/103509243/193695991-ee34977a-823b-4989-ad2e-28e78275eca1.png)
-![image](https://user-images.githubusercontent.com/103509243/193696399-a6ec2d75-8ed6-4282-a254-c1bb869ed76e.png)
+![image](https://user-images.githubusercontent.com/103509243/203418598-fd313f2c-9bb7-4f7c-abc2-dfa2149e26b9.png)
 ![image](https://user-images.githubusercontent.com/103509243/193696590-d775bfdf-f5dc-4427-8e68-8bb466727aeb.png)
 ## 8. Perform analysis through Hive
 ![image](https://user-images.githubusercontent.com/103509243/193696991-bbd8710e-06bf-4428-ac39-6b4e7e96ccae.png)
